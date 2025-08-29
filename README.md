@@ -27,3 +27,9 @@ These exercises are part of the **File Read & Write Challenge 🖋️** and **Er
 ```bash
 python file_read_write.py
 ```
+
+### 2. Error Handling Challenge
+
+```bash
+python error_handling_lab.py
+```
